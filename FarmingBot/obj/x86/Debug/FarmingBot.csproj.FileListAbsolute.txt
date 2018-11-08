@@ -1,0 +1,15 @@
+C:\Users\Dotan ghay\AppData\Local\Temporary Projects\FarmingBot\obj\x86\Debug\FarmingBot.Form1.resources
+C:\Users\Dotan ghay\AppData\Local\Temporary Projects\FarmingBot\obj\x86\Debug\FarmingBot.Properties.Resources.resources
+C:\Users\Dotan ghay\AppData\Local\Temporary Projects\FarmingBot\obj\x86\Debug\FarmingBot.csproj.GenerateResource.Cache
+C:\Users\Dotan ghay\AppData\Local\Temporary Projects\FarmingBot\bin\Debug\FarmingBot.exe
+C:\Users\Dotan ghay\AppData\Local\Temporary Projects\FarmingBot\bin\Debug\FarmingBot.pdb
+C:\Users\Dotan ghay\AppData\Local\Temporary Projects\FarmingBot\obj\x86\Debug\FarmingBot.exe
+C:\Users\Dotan ghay\AppData\Local\Temporary Projects\FarmingBot\obj\x86\Debug\FarmingBot.pdb
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Debug\FarmingBot.exe
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Debug\FarmingBot.pdb
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\bin\Debug\FarmingBot.exe
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\bin\Debug\FarmingBot.pdb
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Debug\FarmingBot.Form1.resources
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Debug\FarmingBot.Properties.Resources.resources
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Debug\FarmingBot.csproj.GenerateResource.Cache
+C:\Users\Dotan ghay\documents\visual studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Debug\FarmingBot.csprojResolveAssemblyReference.cache
